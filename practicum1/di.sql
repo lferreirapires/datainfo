@@ -1,4 +1,8 @@
 select * from docent d, thema t;
+/* 
+	24 rijen 
+*/
+
 /*
 1|Dr. Klaas|1|1|uml
 1|Dr. Klaas|2|2|jsp
