@@ -1,4 +1,5 @@
-select * from docent d, thema t;
+select d.naam, t.naam from docent d, thema t
+	where d.docent_id = t.docent_id AND d.naam = 'Dr. Luis';
 /* 
 	24 rijen 
 */
